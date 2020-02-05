@@ -1,2 +1,2 @@
-# -iocage-plugin-reverseproxy-
-REverse proxy server using nginx using Letsencrypt certificate
+# iocage-plugin-reverseproxy
+Reverse proxy server using nginx using Letsencrypt certificate
